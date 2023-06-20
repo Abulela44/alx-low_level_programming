@@ -2,7 +2,8 @@ nclude <stdio.h>
 
 int main(void)
 {
-	printf ("Programming is like building a multilingual puzzle); //wih a newline;
+puts("Programming is like building a multilingual puzzle);
+// with a newline
 
 	return 0;
 }
