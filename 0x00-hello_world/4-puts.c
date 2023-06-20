@@ -1,9 +1,15 @@
-nclude <stdio.h>
+#include <stdio.h>
+
+/**
+ * main - prints "Programming is like building a multilingual puzzle," followed by a new line.
+ * return 0.
+ */
 
 int main(void)
-{
-puts("Programming is like building a multilingual puzzle);
-// with a newline
 
-	return 0;
+{
+  puts("\"Programming is like building a multilingual puzzleh.\n");
+ 
+  return(0);
+ 
 }
