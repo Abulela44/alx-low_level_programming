@@ -4,12 +4,13 @@
  * main - Entry point
  * Return: Always 0
  */
+
 int main(void)
 {
-printf("Size of s char: %c\n", sizeofbyte(s));
-printf("Size of an int: %d\n", sizeofbyte(s));
-printf("Size of a long int: %ld\n", sizeofbyte(s));
-printf("Size of a long long int: %lld\n", sizeofbyte(s));
-printf("Size of a float: %f\n", sizeofbyte(s));
-return (0);
+printf("Size of char: %zu byte(s)\n", sizeof(char));
+printf("Size of int: %zu byte(s)\n", sizeof(int));
+printf("Size of long int: %zu byte(s)\n", sizeof(long int));
+printf("Size of long long int: %zu byte(s)\n", sizeof(long long int));
+printf("Size of float: %zu byte(s)\n", sizeof(float));
+return 0;
 }
