@@ -6,8 +6,9 @@
  */
 int main(void)
 {
-int no.;
-for (no. = 0; no. < 10; no.++)
-printf("%d", no., '\n')
-return (0);
+int i;
+for (i = 0; i < 10; i++)
+printf("%d", i);
+printf('\n');
+return(0);
 }
