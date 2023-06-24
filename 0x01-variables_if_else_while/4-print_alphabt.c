@@ -7,7 +7,7 @@
 
 int main(void)
 {
-char L24, e, q; 
+char L24, e, q;
 e = 'e';
 q = 'q';
 for (L24 = 'a'; L24 <= 'z'; L24++)
