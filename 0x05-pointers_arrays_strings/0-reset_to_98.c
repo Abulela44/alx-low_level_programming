@@ -2,10 +2,9 @@
 
 /**
  * reset_to_98.c - Give the value of pointer points at
- * @n: int input pointer.
- * Return: None.
+ * @n: int input pointer
+ * Return: Nothing
  */
-
 void reset_to_98(int *n)
 {
 *n = 98;
