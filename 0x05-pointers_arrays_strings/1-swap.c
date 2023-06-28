@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
  * swap_int - swaps the values of two integers
- * @a && @b: swap int *a to int *b, and swap int *b to int *a.
+ * @a: int swap
+ * @b: int swap
  * Return: None.
  */
-
 void swap_int(int *a, int *b)
 {
 
