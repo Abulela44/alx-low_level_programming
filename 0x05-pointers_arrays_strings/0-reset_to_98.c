@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* _reset_to_98.c - Give the value of pointer points to 98
+*_reset_to_98.c - Give the value of pointer points to 98
 *
 * @n: int input pointer
 * Return : Nothing
